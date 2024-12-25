@@ -2,9 +2,9 @@
 Awesome Open Source AI is a curated list of useful open-source AI resources, including inference engines, LLMs, and tools. Specifically, this list aims to link to resources that meet the [Open Source Initiative® (OSI) definition of open source](https://opensource.org/osd) as much as possible.
 
 # Table of Contents
-- [Inference Engines](https://github.com/suncloudsmoon/awesome-open-source-ai#Inference-Engines)
-- [Language Models](https://github.com/suncloudsmoon/awesome-open-source-ai#Language-Models)
-- [Embedding Models](https://github.com/suncloudsmoon/awesome-open-source-ai#Embedding-Models)
+- [Inference Engines](https://github.com/suncloudsmoon/awesome-open-source-ai#inference-engines)
+- [Language Models](https://github.com/suncloudsmoon/awesome-open-source-ai#language-models)
+- [Embedding Models](https://github.com/suncloudsmoon/awesome-open-source-ai#embedding-models)
 - [Tools](https://github.com/suncloudsmoon/awesome-open-source-ai#Tools)
 
 # Inference Engines
