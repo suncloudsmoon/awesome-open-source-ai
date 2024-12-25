@@ -2,10 +2,10 @@
 Awesome Open Source AI is a curated list of useful open-source AI resources, including inference engines, LLMs, and tools. Specifically, this list aims to link to resources that meet the [Open Source Initiative® (OSI) definition of open source](https://opensource.org/osd) as much as possible.
 
 # Table of Contents
-- [Inference Engines](https://github.com/suncloudsmoon/awesome-open-source-ai?tab=readme-ov-file#inference-engines)
-- [Language Models](https://github.com/suncloudsmoon/awesome-open-source-ai?tab=readme-ov-file#language-models)
-- [Embedding Models](https://github.com/suncloudsmoon/awesome-open-source-ai?tab=readme-ov-file#embedding-models)
-- [Tools](https://github.com/suncloudsmoon/awesome-open-source-ai?tab=readme-ov-file#tools)
+- [Inference Engines](#inference-engines)
+- [Language Models](#language-models)
+- [Embedding Models](#embedding-models)
+- [Tools](#tools)
 
 # Inference Engines
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) - Barebones LLM inference with additional options to control LLM output beyond those of Ollama.
