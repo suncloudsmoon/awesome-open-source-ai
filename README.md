@@ -28,9 +28,11 @@ Awesome Open Source AI is a curated list of useful open-source AI resources, inc
 - [SmolLM2](https://github.com/huggingface/smollm) - A series of tiny language models that is great for tinkering around and summarizing content (not so great for finetuning).
 
 [^1]: The 3B and 72B models are not open-source.
+[^2]: The 3B model is not open-source.
 
 # Embedding Models
 
+- [BGE-EN-ICL](https://huggingface.co/BAAI/bge-en-icl) - SOTA embedding model that scores great on the [MTEB leaderboard](https://huggingface.co/spaces/mteb/leaderboard).
 - [all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) - Great small embedding model perfectly suited for deployment on low-end consumer hardware.
 
 # Image Models
