@@ -28,12 +28,13 @@ Awesome Open Source AI is a curated list of useful open-source AI resources, inc
 - [Qwen 2.5](https://qwenlm.github.io/blog/qwen2.5/)[^2] - Best in-class language models that excel in benchmarks for math, etc., but may have censorship on certain topics (i.e. Tiananmen Square).
 - [Qwen 2.5 Coder](https://qwenlm.github.io/blog/qwen2.5-coder-family/)[^3] - Best in-class language models that excel in coding related tasks.
 - [Qwen 2.5-1M](https://qwenlm.github.io/blog/qwen2.5-1m/) - Similar to Qwen 2.5 but supports a context length of up to 1M tokens, making it suitable for long-context tasks such as podcast generation.
-- [Qwen2-VL](https://qwenlm.github.io/blog/qwen2-vl/) - Great LLM that supports vision understanding (image & video) and is supported by llama.cpp.
+- [Qwen2-VL](https://qwenlm.github.io/blog/qwen2-vl/)[^4] - Great LLM that supports vision understanding (image & video) and is supported by llama.cpp.
 - [SmolLM2](https://github.com/huggingface/smollm) - A series of tiny language models that is great for tinkering around and summarizing content (not so great for finetuning).
 
 [^1]: Only 1B and 38B are open-source.
 [^2]: The 3B and 72B models are not open-source.
 [^3]: The 3B model is not open-source.
+[^4]: The 72B model is not open-source.
 
 # Embedding Models
 
