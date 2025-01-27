@@ -8,6 +8,7 @@ Awesome Open Source AI is a curated list of useful open-source AI resources, inc
 - [Language Models](#language-models)
 - [Embedding Models](#embedding-models)
 - [Image Models](#image-models)
+- [Audio Models](#audio-models)
 - [Video Models](#video-models)
 - [Tools](#tools)
 
@@ -28,13 +29,13 @@ Awesome Open Source AI is a curated list of useful open-source AI resources, inc
 - [Qwen 2.5](https://qwenlm.github.io/blog/qwen2.5/)[^2] - Best in-class language models that excel in benchmarks for math, etc., but may have censorship on certain topics (i.e. Tiananmen Square).
 - [Qwen 2.5 Coder](https://qwenlm.github.io/blog/qwen2.5-coder-family/)[^3] - Best in-class language models that excel in coding related tasks.
 - [Qwen 2.5-1M](https://qwenlm.github.io/blog/qwen2.5-1m/) - Similar to Qwen 2.5 but supports a context length of up to 1M tokens, making it suitable for long-context tasks such as podcast generation.
-- [Qwen2-VL](https://qwenlm.github.io/blog/qwen2-vl/)[^4] - Great LLM that supports vision understanding (image & video) and is supported by llama.cpp.
+- [Qwen2.5 VL](https://qwenlm.github.io/blog/qwen2.5-vl/)[^4] - Great LLM that supports vision understanding (image & video) and is supported by llama.cpp.
 - [SmolLM2](https://github.com/huggingface/smollm) - A series of tiny language models that is great for tinkering around and summarizing content (not so great for finetuning).
 
-[^1]: Only 1B and 38B are open-source.
+[^1]: Only 1B and 38B models are open-source.
 [^2]: The 3B and 72B models are not open-source.
 [^3]: The 3B model is not open-source.
-[^4]: The 72B model is not open-source.
+[^4]: Only 3B model is open-source.
 
 # Embedding Models
 
@@ -42,6 +43,14 @@ Awesome Open Source AI is a curated list of useful open-source AI resources, inc
 - [all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) - Great small embedding model perfectly suited for deployment on low-end consumer hardware.
 
 # Image Models
+Coming soon...
+
+# Audio Models
+
+## Text to Speech (TTS)
+- [Kokoro v0.19](https://huggingface.co/hexgrad/Kokoro-82M) - Small TTS model that performs well given its small size (82M parameters).
+
+## Speech to Text (STT)
 Coming soon...
 
 # Video Models
