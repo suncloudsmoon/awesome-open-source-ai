@@ -35,7 +35,7 @@ Awesome Open Source AI is a curated list of useful open-source AI resources, inc
 [^1]: Only 1B and 38B models are open-source.
 [^2]: The 3B and 72B models are not open-source.
 [^3]: The 3B model is not open-source.
-[^4]: Only 3B model is open-source.
+[^4]: Only 7B model is open-source.
 
 # Embedding Models
 
